@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá! Eu sou Brendha Caroline 👋
 
-<!--
-**brendhacaroline/brendhacaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Técnico em Informática – Sistemas (IEFP)  
+💻 Atualmente aprendendo programação e desenvolvimento de software  
+⚗️ Experiência anterior em química
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou aprendendo
+
+- C
+- Java
+- HTML
+- CSS
+- PHP
+- Bases de Dados
+
+---
+
+## Projetos
+
+🔹 Portfólio de programação  
+https://github.com/brendhacaroline/portfolio-programacao
+
+Projetos incluídos:
+
+- VectorStats (C)
+- Number Guessing Game (C)
+- Calculator Menu (C)
+- Math Menu App (Java)
+
+---
+
+## Sobre mim
+
+Sou licenciada em **Química** e atualmente estou em transição de carreira para a área de **Tecnologia e Desenvolvimento de Software**.
+
+Tenho interesse em:
+- programação
+- desenvolvimento de software
+- resolução de problemas
+- tecnologia
+
+---
+
+## Contato
+
+LinkedIn  
+www.linkedin.com/in/brendha-caroline-a74562316
