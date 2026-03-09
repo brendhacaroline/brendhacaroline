@@ -28,6 +28,8 @@ Projetos incluídos:
 - Number Guessing Game (C)
 - Calculator Menu (C)
 - Math Menu App (Java)
+- Car Price Calculator (Java)
+- Tic Tac Toe Game (Java)
 
 ---
 
