@@ -47,7 +47,7 @@ Tenho interesse em:
 
 ## Contato
 
-LinkedIn  
+LinkedIn
 www.linkedin.com/in/brendha-caroline-a74562316
 
 Meu Portfólio
